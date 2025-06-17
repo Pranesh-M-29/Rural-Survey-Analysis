@@ -77,3 +77,6 @@ Screenshots of the dashboard can be found in the /screenshots/ directory.
 * Prioritizing healthcare and food interventions
 * Suggesting sustainable income programs
 * Monitoring progress over time
+
+
+![Screenshot (61)](https://github.com/user-attachments/assets/b513a89f-a4bc-43c1-9a53-c4549799ad0b)
